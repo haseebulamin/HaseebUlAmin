@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haseeb Ul Amin</h1>
 <h3 align="center">Frontend developer from Pakistan🇵🇰</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/KhaqanNasir/KhaqanNasir/blob/main/coding-freak.gif">
 
 <p align="center"> 
   <a href="https://linkedin.com/in/haseebulamin" target="blank"><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=linkedin&style=for-the-badge" alt="haseebulamin"  /></a>
