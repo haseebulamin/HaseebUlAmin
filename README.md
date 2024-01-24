@@ -6,7 +6,7 @@
   <a href="https://github.com/haseebulamin" target="blank"><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=github&style=for-the-badge" alt="haseebulamin"  /></a>
 <a href="https://twitter.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=twitter&style=for-the-badge" alt="hasii_choudhary"  /></a> 
 <a href="https://instagram.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=instagram&style=for-the-badge" alt="hasii_choudhary"  /></a> 
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100051461030832" target="blank"><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=instagram&style=for-the-badge" alt="haseebulamin" /></a> 
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100051461030832" target="blank"><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=facebook&style=for-the-badge" alt="haseebulamin" /></a> 
 </p>
 
 - 🔭 I’m currently working at **Testpioneers.**
