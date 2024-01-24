@@ -12,10 +12,10 @@
 </p>
 
 - 🔭 I’m currently working at **Testpioneers.**
-
+- 
+- 🎓 I’m currently Studying **BSCS at COMSATS University, Sahiwal Campus.**
+- 
 - 🌱 I’m currently learning **Frontend Development - React JS.**
-
-- 👯 I’m looking to collaborate on **Advanced Projects.**
 
 - 💬 Ask me about **Javascript, React JS, Frontend Dev.**
 
