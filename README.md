@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Haseeb Ul Amin</h1>
 <h3 align="center">Frontend developer from Pakistan🇵🇰</h3>
 
-<p align="center"> <a href="https://twitter.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=twitter&style=for-the-badge" alt="hasii_choudhary" /></a> 
-<a href="https://instagram.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=instagram&style=for-the-badge" alt="hasii_choudhary" /></a> 
+<p align="center"> 
+  <a href="https://github.com/haseebulamin" target="blank"><img src="https://img.shields.io/github/follow/haseebulamin?logo=github&style=for-the-badge" alt="hasii_choudhary" /></a>
+<a href="https://twitter.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=twitter&style=for-the-badge" alt="hasii_choudhary" /></a> 
+<a href="https://instagram.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/instagram/follow/hasii_choudhary?logo=instagram&style=for-the-badge" alt="hasii_choudhary" /></a> 
 </p>
 
 - 🔭 I’m currently working at **Testpioneers.**
