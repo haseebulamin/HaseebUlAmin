@@ -21,7 +21,7 @@
 
 - 📫 Send me a message on **haseebulamin07@gmail.com**
 
-- 📄 Ckeck my Resume [https://drive.google.com/file/d/1URF70eSYBImhjz0kM2muLwqdcE3WUIcF/view?usp=sharing](https://drive.google.com/file/d/1URF70eSYBImhjz0kM2muLwqdcE3WUIcF/view?usp=sharing)
+- 📄 More about me:  <a href="https://drive.google.com/file/d/1URF70eSYBImhjz0kM2muLwqdcE3WUIcF/view?usp=sharing" target="_blank" rel="noreferrer"> **Click Here to check Resume** </a>
 
 - ⚡ Fun fact **developing is poison!**
 
