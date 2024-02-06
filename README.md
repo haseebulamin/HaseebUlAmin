@@ -1,6 +1,4 @@
 ![logo](https://github.com/haseebulamin/HaseebUlAmin/blob/main/background.jpg)   
-<h1 align="center">Hi 👋, I'm Haseeb Ul Amin</h1>
-<h3 align="center">Frontend developer from Pakistan🇵🇰</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebulamin&label=Profile%20views&color=0e75b6&style=flat" alt="haseebulamin" /> </p>
 
 <p align="center"> 
@@ -17,7 +15,7 @@
   
 - 🌱 I’m currently learning **Frontend Development - React JS.**
 
-- 💬 Ask me about **Javascript, React JS, Frontend Dev.**📍
+- 💬 Ask me about **Javascript, React JS, Frontend Dev.**
   
 - 📍 Visit my Portfolio **https://haseebulamin.netlify.app**
 
