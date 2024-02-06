@@ -23,7 +23,7 @@
 
 - 📄 More about me:  <a href="https://drive.google.com/file/d/1URF70eSYBImhjz0kM2muLwqdcE3WUIcF/view?usp=sharing" target="_blank" rel="noreferrer" color="white"> **My Resume** </a>
 
-- ⚡ Fun fact **developing is poison!**
+- ⚡ Fun fact: **Coding like poetry should be short and concise!**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
