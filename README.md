@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebulamin&label=Profile%20views&color=0e75b6&style=flat" alt="haseebulamin" /> </p>
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/haseebulamin" target="blank"><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=linkedin&style=for-the-badge" alt="haseebulamin"  /></a>
+  <a href="https://linkedin.com/in/haseebulamin" target="blank"><img src="https://img.shields.io/twitter/haseebulamin?logo=linkedin&style=for-the-badge" alt="haseebulamin"  /></a>
   <a href="https://github.com/haseebulamin" target="blank"><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=github&style=for-the-badge" alt="haseebulamin"  /></a>
 <a href="https://twitter.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=twitter&style=for-the-badge" alt="hasii_choudhary"  /></a> 
 <a href="https://instagram.com/hasii_choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=instagram&style=for-the-badge" alt="hasii_choudhary"  /></a> 
