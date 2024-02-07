@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Javascript, React JS, Frontend Dev.**
   
-- 📍 Visit my Portfolio **https://haseebulamin.netlify.app**
+- 📍 Visit my Portfolio: <a href="https://haseebulamin.netlify.app" target="_blank" rel="noreferrer" color="white"> **haseebulamin** </a>
 
 - 📫 Send me a message on **haseebulamin07@gmail.com**
 
