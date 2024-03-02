@@ -1,6 +1,8 @@
 ![logo](https://github.com/haseebulamin/HaseebUlAmin/blob/main/background.jpg)   
 <!-- HeadLine !-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Frontend+Developer...."> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebulamin&label=Profile%20views&color=0e75b6&style=flat" alt="haseebulamin" /> </p>
 
 <p align="center"> 
