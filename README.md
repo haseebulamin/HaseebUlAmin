@@ -2,7 +2,6 @@
 <!-- HeadLine !-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Frontend+Developer...."> </p>
-> The Future depends on what you do today. - **Haseeb Ul Amin** 💕
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebulamin&label=Profile%20views&color=0e75b6&style=flat" alt="haseebulamin" /> </p>
 
 <p align="center"> 
@@ -47,4 +46,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebulamin&theme=dark" alt="haseebulamin" /></p>
 
+<div align="center">
 
+<span align="center">
+
+### Show some ❤️ by ⭐️ some of the repositories!!
+</span>
+
+
+`Readme likes Light Theme :)`
+</br>
+`Haseeb likes dark Theme ;)`
+
+<div align="right">
+    <a href="https://www.google.com/search?q=haseeb+ul+amin&oq=Haseeb+Ul+Amin&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEINTE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"> Find me on Google 😄</a>
+    <p>Bye Bye 💜 </p>
+</div>
+
+
+</div>
