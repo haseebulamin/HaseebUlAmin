@@ -2,7 +2,7 @@
 <!-- HeadLine !-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Frontend+Developer...."> </p>
-
+> The Future depends on what you do today. - **Haseeb Ul Amin** 💕
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haseebulamin&label=Profile%20views&color=0e75b6&style=flat" alt="haseebulamin" /> </p>
 
 <p align="center"> 
