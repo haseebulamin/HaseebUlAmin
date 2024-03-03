@@ -14,10 +14,6 @@
 <br/>
 
 ### About me 🚀
-- 🌱 Works on **Flutter** by passion and **Data Engineering** by field
-- 👯 Love to help people and grow as a community
-- 👣 I like Chess and Badminton
-<!-- Octocat gif -->
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. I’m **Frontend Developer** and currently working at **Testpioneers.** Skilled in **JavaScript, React.js, ES6, Git, React State, JSX, React Hooks**. Strong engineering professional with a **Bachelor of Science in Computer Software Engineering from COMSTAS University Islamabad(Sahiwal Campus) of Pakistan**.🖤
 
 - 📍 Visit my Portfolio: <a href="https://haseebulamin.netlify.app" target="_blank" rel="noreferrer" color="white"> **haseebulamin** </a>
