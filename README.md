@@ -1,4 +1,4 @@
-![logo](https://github.com/haseebulamin/HaseebUlAmin/blob/main/background.jpg)   
+## Hi 👋, I'm [Haseeb Ul Amin!](https://haseebulamin.netlify.app/) 
 <!-- HeadLine !-->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=FF3A61&width=500&lines=I+am+a+Frontend+Developer...."> </p>
