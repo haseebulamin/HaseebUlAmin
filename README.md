@@ -12,14 +12,8 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100051461030832" target='_blank'><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=facebook&style=for-the-badge" alt="haseebulamin" /></a> 
 </p>
 
-- 🔭 I’m currently working at **Testpioneers.**
-  
-- 🎓 I’m currently Studying **BSCS at COMSATS University, Sahiwal Campus.**
-  
-- 🌱 I’m currently learning **Frontend Development - React JS.**
+Experienced Software Engineer with a demonstrated history of working in the computer software industry. I’m currently working at **Testpioneers.** Skilled in **JavaScript, React.js, ES6, Git, React State, JSX, React Hooks, Frontend Developer**. Strong engineering professional with a **Bachelor of Science in Computer Software Engineering from COMSTAS University Islamabad(Sahiwal Campus) of Pakistan**.🖤
 
-- 💬 Ask me about **Javascript, React JS, Frontend Dev.**
-  
 - 📍 Visit my Portfolio: <a href="https://haseebulamin.netlify.app" target="_blank" rel="noreferrer" color="white"> **haseebulamin** </a>
 
 - 📫 Send me a message on **haseebulamin07@gmail.com**
