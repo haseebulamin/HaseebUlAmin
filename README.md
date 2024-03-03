@@ -11,7 +11,6 @@
 <a href="https://instagram.com/hasii_choudhary" target='_blank'><img src="https://img.shields.io/twitter/follow/hasii_choudhary?logo=instagram&style=for-the-badge" alt="hasii_choudhary"  /></a> 
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100051461030832" target='_blank'><img src="https://img.shields.io/twitter/follow/haseebulamin?logo=facebook&style=for-the-badge" alt="haseebulamin" /></a> 
 </p>
-<br/>
 
 ### About me 🚀
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. I’m **Frontend Developer** and currently working at **Testpioneers.** Skilled in **JavaScript, React.js, ES6, Git, React State, JSX, React Hooks**. Strong engineering professional with a **Bachelor of Science in Computer Software Engineering from COMSTAS University Islamabad(Sahiwal Campus) of Pakistan**.🖤
@@ -41,7 +40,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebulamin&show_icons=true&locale=en&theme=dark" alt="haseebulamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebulamin&theme=dark" alt="haseebulamin" /></p>
-
+<br/><br/>
 <div align="center">
 
 <span align="center">
