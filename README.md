@@ -46,8 +46,6 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 <span align="center">
 
 ### Show some ❤️ by ⭐️ some of the repositories!!
-### Show some ❤️ by ⭐️ some of the repositories!!
-### Show some ❤️ by ⭐️ some of the repositories!!
 </span>
 
 
