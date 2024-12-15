@@ -52,6 +52,12 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 `Readme likes Light Theme :)`
 </br>
 `Haseeb likes dark Theme ;)`
+`Readme likes Light Theme :)`
+</br>
+`Haseeb likes dark Theme ;)`
+`Readme likes Light Theme :)`
+</br>
+`Haseeb likes dark Theme ;)`
 
 <div align="right">
     <a href="https://www.google.com/search?q=haseeb+ul+amin&oq=Haseeb+Ul+Amin&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEINTE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"> Find me on Google 😄</a>
