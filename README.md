@@ -40,6 +40,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebulamin&show_icons=true&locale=en&theme=dark" alt="haseebulamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebulamin&theme=dark" alt="haseebulamin" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=haseebulamin)](https://git.io/streak-stats)
 <br/><br/>
 <div align="center">
 
